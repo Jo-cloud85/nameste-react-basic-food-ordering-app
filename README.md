@@ -186,6 +186,9 @@
     - npm i --D @testing-library/jest-dom
 
 12. Add jest watch test into package.json file
+
     - "watch-test": "jest --watch"
+
 13. Type npm run watch-test instead of nom run start
+
     - Automatically re-run test, similar to the auto reload page
